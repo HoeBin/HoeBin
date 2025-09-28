@@ -67,8 +67,6 @@
     <img src="https://skillicons.dev/icons?i=r" alt="R" height="48" />
     <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" />
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="48" />
-    <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='%2302566d'/><text x='32' y='40' text-anchor='middle' font-size='30' fill='white' font-family='sans-serif' font-weight='700'>S</text></svg>" alt="Seurat" height="48" />
-    <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='%23225622'/><text x='32' y='38' text-anchor='middle' font-size='24' fill='white' font-family='sans-serif' font-weight='700'>SC</text></svg>" alt="Scanpy" height="48" />
   </div>
 
   <h3>Omics & NGS Workflows</h3>
