@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1581093458791-9d10b1c14f1d?auto=format&fit=crop&w=1600&q=80" alt="Bioinformatics banner showing DNA and data visualization" width="100%" />
+  <img src="https://images.unsplash.com/photo-1559757175-5700dde675d5?auto=format&fit=crop&w=1600&q=80" alt="Microscope and DNA strands representing bioinformatics" width="100%" />
   <h1>Hoebin Chung</h1>
   <h3>M.S. Student · Department of Bioinformatics, Soongsil University</h3>
   <p>Integrative Multi-Omics · Cancer Systems Biology · Data Storytelling</p>
