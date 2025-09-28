@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80" alt="Colorful gradient abstract banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Welcome!&fontColor=ffffff&fontSize=42" alt="Gradient waving banner" width="100%" />
   <h1>Hoebin Chung</h1>
   <h3>M.S. Student · Department of Bioinformatics, Soongsil University</h3>
   <p>Integrative Multi-Omics · Cancer Systems Biology · Data Storytelling</p>
