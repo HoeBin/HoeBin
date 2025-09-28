@@ -63,14 +63,13 @@
 <section>
   <h2>🧰 Skills</h2>
   <h3>Computational</h3>
-  <div align="center" style="display:flex; gap:14px; flex-wrap:wrap; justify-content:center; margin: 10px 0 16px;">
+  <div style="display:flex; gap:14px; flex-wrap:wrap; justify-content:flex-start; margin: 10px 0 16px;">
     <img src="https://skillicons.dev/icons?i=r" alt="R" height="48" />
     <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" />
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="48" />
-    <img src="https://img.shields.io/badge/Seurat-0B7285?style=for-the-badge&logo=RStudio&logoColor=white" alt="Seurat" height="32" />
-    <img src="https://img.shields.io/badge/Scanpy-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Scanpy" height="32" />
+    <img src="https://raw.githubusercontent.com/r-lib/lifecycle/main/man/figures/logo.png" alt="Seurat" height="48" />
+    <img src="https://raw.githubusercontent.com/theislab/scanpy/master/doc/_static/logo.svg" alt="Scanpy" height="48" />
   </div>
-  <p align="center">Building data products with R, Python, Linux-first automation, Seurat, and Scanpy.</p>
 
   <h3>Omics & NGS Workflows</h3>
   <p>I assemble end-to-end pipelines that span single-cell, spatial, epigenomic, and population-scale sequencing.</p>
