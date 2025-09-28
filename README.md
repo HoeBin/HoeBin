@@ -66,23 +66,23 @@
 
 <section>
   <h2>🧰 Skills</h2>
-  <div align="center" style="margin-bottom: 12px;">
-    <img src="https://skillicons.dev/icons?i=r,python,linux" alt="Skills: R, Python, Linux" />
+  <h3>Computational</h3>
+  <div align="center" style="display:flex; gap:14px; flex-wrap:wrap; justify-content:center; margin: 10px 0 16px;">
+    <img src="https://skillicons.dev/icons?i=r" alt="R" height="48" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" />
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="48" />
+    <img src="https://img.shields.io/badge/Seurat-0B7285?style=for-the-badge&logo=RStudio&logoColor=white" alt="Seurat" height="32" />
+    <img src="https://img.shields.io/badge/Scanpy-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Scanpy" height="32" />
   </div>
-  <table>
-    <tr>
-      <td><strong>Computational</strong></td>
-      <td>R, Python, Linux, Seurat, Scanpy</td>
-    </tr>
-    <tr>
-      <td><strong>Single-Cell & NGS</strong></td>
-      <td>scRNA-seq, scATAC-seq, Visium, Visium HD, Xenium, bulk RNA-seq, bulk ATAC-seq, ChIP-seq, Hi-C, DNA methylation</td>
-    </tr>
-    <tr>
-      <td><strong>Genomics</strong></td>
-      <td>WGS, WES, GWAS, 16S rRNA sequencing</td>
-    </tr>
-  </table>
+  <p align="center">Building data products with R, Python, Linux-first automation, Seurat, and Scanpy.</p>
+
+  <h3>Omics & NGS Workflows</h3>
+  <p>I assemble end-to-end pipelines that span single-cell, spatial, epigenomic, and population-scale sequencing.</p>
+  <ul>
+    <li>Single-cell & spatial: scRNA-seq, scATAC-seq, Visium, Visium HD, Xenium</li>
+    <li>Bulk & epigenomics: bulk RNA-seq, bulk ATAC-seq, ChIP-seq, Hi-C, DNA methylation</li>
+    <li>Population genomics: WGS, WES, GWAS, 16S rRNA sequencing</li>
+  </ul>
 </section>
 
 <section>
