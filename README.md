@@ -44,6 +44,7 @@
       <li>Perform single-nucleus chromatin accessibility analysis across multiple thyroid cancer subtypes.</li>
       <li>Classify malignant epithelial cells and identify subtype-specific transcriptional regulators.</li>
       <li>Integrate chromatin accessibility, 3D genome architecture, and DNA methylation to uncover regulatory mechanisms.</li>
+      <li><a href="https://github.com/HoeBin/Thyroid-Cancer-snATACseq" target="_blank">Project repository: Thyroid-Cancer-snATACseq</a></li>
     </ul>
   </details>
   <details>
