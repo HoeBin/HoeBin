@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Hoebin%20Chung&fontColor=ffffff&fontSize=42" alt="Gradient waving banner" width="100%" />
-  <h1>Hoebin Chung</h1>
   <h3>M.S. Student · Department of Bioinformatics, Soongsil University</h3>
   <p>Integrative Multi-Omics · Cancer Systems Biology · Data Storytelling</p>
 </div>
