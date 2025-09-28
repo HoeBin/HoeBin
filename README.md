@@ -66,6 +66,9 @@
 
 <section>
   <h2>🧰 Skills</h2>
+  <div align="center" style="margin-bottom: 12px;">
+    <img src="https://skillicons.dev/icons?i=r,python,linux" alt="Skills: R, Python, Linux" />
+  </div>
   <table>
     <tr>
       <td><strong>Computational</strong></td>
