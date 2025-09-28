@@ -2,21 +2,17 @@
   <img src="https://images.unsplash.com/photo-1581093458791-9d10b1c14f1d?auto=format&fit=crop&w=1600&q=80" alt="Bioinformatics banner showing DNA and data visualization" width="100%" />
   <h1>Hoebin Chung</h1>
   <h3>M.S. Student · Department of Bioinformatics, Soongsil University</h3>
-  <p>Bioinformatics · Computational Biology · Multi-Omics Analytics</p>
+  <p>Integrative Multi-Omics · Cancer Systems Biology · Data Storytelling</p>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=r,python,linux" alt="Primary tools: R, Python, Linux" />
-</div>
-
 <section>
   <h2>🌱 About</h2>
   <p>
-    I am a graduate student in bioinformatics at Soongsil University with a focus on translating complex
-    biological signals into reproducible, data-driven insights. My work connects chromatin accessibility,
-    gene regulation, and spatial context to reveal the molecular programs that define cancer subtypes.
+    Graduate bioinformatician translating chromatin accessibility, spatial context, and gene expression into
+    reproducible insights for cancer biology. I design analysis frameworks that expose regulatory programs and
+    guide collaborative, data-driven discovery.
   </p>
 </section>
 
@@ -86,31 +82,10 @@
 </section>
 
 <section>
-  <h2>📈 Highlights</h2>
-  <div align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=Hoebin-chung&hide_border=true&show_icons=true&theme=transparent">
-      <img src="https://github-readme-stats.vercel.app/api?username=Hoebin-chung&hide_border=true&show_icons=true&theme=transparent" alt="Hoebin's GitHub stats" height="170" />
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=Hoebin-chung&hide_border=true&theme=transparent">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hoebin-chung&hide_border=true&theme=transparent" alt="Hoebin's GitHub streak" height="170" />
-    </a>
-  </div>
-</section>
-
-<section>
   <h2>📬 Connect</h2>
   <ul>
     <li><strong>E-mail:</strong> <a href="mailto:ghlqls1220@naver.com">ghlqls1220@naver.com</a></li>
     <li><strong>Phone:</strong> +82-10-2563-3143</li>
     <li><strong>Location:</strong> Soongsil University, 369, Sangdo-ro, Dongjak-gu, Seoul</li>
   </ul>
-</section>
-
-<section>
-  <h2>🗺️ Roadmap</h2>
-  <ol>
-    <li>Publish reproducible bioinformatics templates using R Markdown and Quarto.</li>
-    <li>Prototype machine learning models to predict biological responses.</li>
-    <li>Document Linux-first workflows for research teams.</li>
-  </ol>
 </section>
